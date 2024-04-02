@@ -1,0 +1,239 @@
+
+.botton-link{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    background-color: rgba(252, 252, 252, 0.822);
+    color: rgb(20, 57, 75);
+    padding: 8px 24px;
+    box-shadow: 7px 7px 0px 0px rgba(1, 59, 110, 0.527);
+    text-decoration: none;
+    
+}
+
+.botton-linkdata{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    color: rgb(232, 236, 238);
+    padding: 5px 30px ;
+    text-decoration: none;
+    background-color: rgba(1, 59, 110, 0.527);
+    margin-bottom: 40px;
+    
+}
+@media screen and (max-width: 1440px){
+    .botton-linkdata {
+        padding: 2px 30px ;
+        font-size: 16px;
+    }
+}
+
+.container{
+    background-color: rgb(173, 222, 223);
+    background-image: linear-gradient(to right, rgba(94, 110, 160, 0.952), rgba(229, 232, 238, 0.829)), url('https://img.freepik.com/free-vector/futuristic-holographic-infographic-element-collection_52683-12929.jpg?t=st=1712048530~exp=1712052130~hmac=829fe4047a9cc26eacf0afdd92de8d19e0710b61733bc21c4288d2218565f305&w=740');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: above right  ;
+    min-height: 100vh;  /*min-height เพื่อให้เต็มหน้า Web*/
+    padding: 70px 128px;
+}
+@media screen and (max-width: 768px){
+    .container {
+        padding: 48px;
+    }
+}
+
+.content {
+    background-color: rgba(226, 228, 233, 0.781);
+    max-width: 670px;
+    padding: 60px;
+    margin-bottom: 40px ;
+    border-radius: 10%;
+    box-shadow: 10px 10px 0px 0px rgba(1, 59, 110, 0.527);
+}
+@media screen and (max-width: 768px){
+    .content  {
+        padding: 40px;
+    }
+}
+
+.deli{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+@media screen and (max-width: 768px){
+    .deli {
+        font-size: 16px;
+    }
+}
+
+
+.deli-ol{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 10px ;
+  
+    
+}
+
+
+.deli-item{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    margin-bottom: 5px;
+}
+@media screen and (max-width: 768px){
+    .deli-item{
+        font-size: 12px;
+    }
+}
+
+.all-icon{
+    margin-right: 12px ;
+    width: 17px;
+}
+
+.intro{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 20px;
+    color: aliceblue;
+    margin-bottom: 40px ;
+}
+@media screen and (max-width: 768px){
+    .intro{
+        font-size: 16px;
+    }
+}
+
+.name{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    font-size: 48px;
+    color: rgb(255, 255, 255);
+    text-transform: uppercase;
+}
+@media screen and (max-width: 768px){
+    .name {
+        font-size: 30px;
+    }
+}
+
+.obj{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+
+.objcontent{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    margin-bottom: 30px ;
+    
+}
+@media screen and (max-width: 768px){
+    .objcontent{
+        font-size: 12px;
+    }
+}
+
+.pic-arduino_box{
+    height: 400px;
+    margin-bottom: 40px ;
+}
+@media screen and (max-width: 768px){
+    .pic-arduino_box{
+        height: 200px;
+    }
+}
+
+.pic-hardware{
+    height: 400px;
+    margin-bottom: 40px ;
+}
+
+.pic-web{
+    height: 400px;
+    margin-bottom: 40px ;
+   
+}
+@media screen and (max-width: 768px){
+    .pic-web{
+        height: 200px;
+    }
+}
+
+.pic-web-link{
+    height: 150px;
+    width: 150px;
+    margin: 20px 20px 20px 40px ;
+    border-radius: 100%;
+}
+
+.pic-test{
+    height: 150px;
+    width: 150px;
+    margin-bottom: 20px ;
+    border-radius: 100%; 
+    object-fit: cover;
+}
+
+.scope{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 10px;
+}
+
+.scope-ol{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    font-size: 20px;
+    margin-bottom: 30px ;
+    
+}
+
+.scope-item{
+    font-family: "Noto Sans Thai Looped", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 16px;
+    margin-bottom: 5px;
+    
+}
+@media screen and (max-width: 768px){
+    .scope-item{
+        font-size: 12px;
+    }
+}
+
+.tabhead{
+         
+         background-color: rgba(255, 255, 255, 0.664);
+         height: 9px;
+         margin: 10px 20px 95px 10px  ;
+         padding: 0px ;
+         
+         
+}
+
+
